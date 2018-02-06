@@ -1,0 +1,2 @@
+# get_hj_bbox_labeling
+利用Opencv实现物体检测工具
